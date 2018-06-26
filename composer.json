@@ -1,0 +1,10 @@
+{
+    "name": "demo_favicon_downloader",
+    "authors": [{
+        "name": "",
+        "email": ""
+    }],
+    "require": {
+        "vincepare/favicon-downloader": "^1.0"
+    }
+}
