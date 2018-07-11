@@ -1,3 +1,4 @@
-http://stackoverflow.com
-http://google.com
+stackoverflow.com
+https://google.com
+www.gmail.com
 facebook.com
