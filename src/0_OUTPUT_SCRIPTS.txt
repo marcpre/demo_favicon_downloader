@@ -1,0 +1,525 @@
+Get favicon from link: http://samouraiwallet.com
+Filename: fav-samouraiwallet.png
+Saved to /home/ubuntu/workspace/src/fav-samouraiwallet.png
+Get favicon from link: http://mycelium.com/mycelium-wallet.html
+Filename: fav-mycelium.png
+Saved to /home/ubuntu/workspace/src/fav-mycelium.png
+Get favicon from link: http://brd.com/
+Filename: fav-brd.png
+Saved to /home/ubuntu/workspace/src/fav-brd.png
+Get favicon from link: http://edgesecure.co/
+Filename: fav-edgesecure.png
+Saved to /home/ubuntu/workspace/src/fav-edgesecure.png
+Get favicon from link: http://play.google.com/store/apps/details?id=com.greenaddress.greenbits_android_wallet&hl=en
+Filename: fav-play.png
+Saved to /home/ubuntu/workspace/src/fav-play.png
+Get favicon from link: http://play.google.com/store/apps/details?id=de.schildbach.wallet
+Filename: fav-play.png
+Saved to /home/ubuntu/workspace/src/fav-play.png
+Get favicon from link: http://theverge.com/2018/3/14/17119474/apple-mac-calendar-app-cryptocurrency-mining
+Filename: fav-theverge.png
+Saved to /home/ubuntu/workspace/src/fav-theverge.png
+Get favicon from link: http://motherboard.vice.com/en_us/article/gyd5xq/starbucks-wi-fi-hijacked-peoples-laptops-to-mine-cryptocurrency-coinhive
+Filename: fav-motherboard.png
+Saved to /home/ubuntu/workspace/src/fav-motherboard.png
+Get favicon from link: http://bbc.co.uk/news/world-europe-43003740
+Filename: fav-bbc.png
+Saved to /home/ubuntu/workspace/src/fav-bbc.png
+Get favicon from link: http://bitcoinmagazine.com/articles/government-bans-professor-mining-bitcoin-supercomputer-1402002877/
+Filename: fav-bitcoinmagazine.png
+Saved to /home/ubuntu/workspace/src/fav-bitcoinmagazine.png
+Get favicon from link: http://ccn.com/harvard-student-uses-14000-core-supercomputer-mine-dogecoin/
+Filename: fav-ccn.png
+Saved to /home/ubuntu/workspace/src/fav-ccn.png
+Get favicon from link: http://bravenewcoin.com/news/employee-mined-bitcoins-on-federal-reserve-servers-for-two-years/
+Filename: fav-bravenewcoin.png
+Saved to /home/ubuntu/workspace/src/fav-bravenewcoin.png
+Get favicon from link: http://en.bitcoin.it/wiki/BTCMiner
+Filename: fav-en.png
+Saved to /home/ubuntu/workspace/src/fav-en.png
+Get favicon from link: http://microsoft.com/en-us/p/bitcoin-miner/9wzdncrdhxb6
+Filename: fav-microsoft.png
+Saved to /home/ubuntu/workspace/src/fav-microsoft.png
+Get favicon from link: http://en.bitcoin.it/wiki/CGMiner
+Filename: fav-en.png
+Saved to /home/ubuntu/workspace/src/fav-en.png
+Get favicon from link: http://bfgminer.org/
+
+
+##############################################
+ ERROR: No favicon for http://bfgminer.org/
+##############################################
+
+Filename: fav-bfgminer.png
+Saved to /home/ubuntu/workspace/src/fav-bfgminer.png
+Get favicon from link: http://sourceforge.net/projects/easyminer/
+Filename: fav-sourceforge.png
+Saved to /home/ubuntu/workspace/src/fav-sourceforge.png
+Get favicon from link: http://en.bitcoin.it/wiki/RPC_Miner
+Filename: fav-en.png
+Saved to /home/ubuntu/workspace/src/fav-en.png
+Get favicon from link: http://blog.ethereum.org/author/vitalik-buterin/
+
+
+##############################################
+ ERROR: No favicon for http://blog.ethereum.org/author/vitalik-buterin/
+##############################################
+
+Filename: fav-blog.png
+Saved to /home/ubuntu/workspace/src/fav-blog.png
+Get favicon from link: http://cryptonomics.org/
+Filename: fav-cryptonomics.png
+Saved to /home/ubuntu/workspace/src/fav-cryptonomics.png
+Get favicon from link: http://hackingdistributed.com/
+Filename: fav-hackingdistributed.png
+Saved to /home/ubuntu/workspace/src/fav-hackingdistributed.png
+Get favicon from link: http://bitsonblocks.net/
+Filename: fav-bitsonblocks.png
+Saved to /home/ubuntu/workspace/src/fav-bitsonblocks.png
+Get favicon from link: http://hashingit.com/
+Filename: fav-hashingit.png
+Saved to /home/ubuntu/workspace/src/fav-hashingit.png
+Get favicon from link: http://gavintech.blogspot.com/
+Filename: fav-gavintech.png
+Saved to /home/ubuntu/workspace/src/fav-gavintech.png
+Get favicon from link: http://organofcorti.blogspot.com/
+Filename: fav-organofcorti.png
+Saved to /home/ubuntu/workspace/src/fav-organofcorti.png
+Get favicon from link: http://rusty.ozlabs.org/
+Filename: fav-rusty.png
+Saved to /home/ubuntu/workspace/src/fav-rusty.png
+Get favicon from link: http://ofnumbers.com/
+
+
+##############################################
+ ERROR: No favicon for http://ofnumbers.com/
+##############################################
+
+Filename: fav-ofnumbers.png
+Saved to /home/ubuntu/workspace/src/fav-ofnumbers.png
+Get favicon from link: http://vimeo.com/213776538
+Filename: fav-vimeo.png
+Saved to /home/ubuntu/workspace/src/fav-vimeo.png
+Get favicon from link: http://youtube.com/watch?v=MeRmVRFaTIY
+Filename: fav-youtube.png
+Saved to /home/ubuntu/workspace/src/fav-youtube.png
+Get favicon from link: http://youtube.com/watch?v=8zKuoqZLyKg
+Filename: fav-youtube.png
+Saved to /home/ubuntu/workspace/src/fav-youtube.png
+Get favicon from link: http://youtube.com/watch?v=2iF73cybTBs
+Filename: fav-youtube.png
+Saved to /home/ubuntu/workspace/src/fav-youtube.png
+Get favicon from link: http://youtube.com/watch?v=BrRXP1tp6Kw
+Filename: fav-youtube.png
+Saved to /home/ubuntu/workspace/src/fav-youtube.png
+Get favicon from link: http://youtube.com/watch?v=AwPAB9F2ch8
+Filename: fav-youtube.png
+Saved to /home/ubuntu/workspace/src/fav-youtube.png
+Get favicon from link: http://youtube.com/watch?v=IMJmd_tNhlM
+Filename: fav-youtube.png
+Saved to /home/ubuntu/workspace/src/fav-youtube.png
+Get favicon from link: http://youtube.com/watch?v=xRtC_SZfSk8
+Filename: fav-youtube.png
+Saved to /home/ubuntu/workspace/src/fav-youtube.png
+Get favicon from link: http://youtube.com/watch?v=0S4dSXTnfms
+Filename: fav-youtube.png
+Saved to /home/ubuntu/workspace/src/fav-youtube.png
+Get favicon from link: http://thebitcoin.pub/c/mining
+Filename: fav-thebitcoin.png
+Saved to /home/ubuntu/workspace/src/fav-thebitcoin.png
+Get favicon from link: http://steemit.com/trending/mining
+Filename: fav-steemit.png
+Saved to /home/ubuntu/workspace/src/fav-steemit.png
+Get favicon from link: http://bitcointalk.org/index.php?board=14.0
+Filename: fav-bitcointalk.png
+Saved to /home/ubuntu/workspace/src/fav-bitcointalk.png
+Get favicon from link: http://amzn.to/2MDp64A
+Filename: fav-amzn.png
+Saved to /home/ubuntu/workspace/src/fav-amzn.png
+Get favicon from link: http://amzn.to/2yZK4IJ
+Filename: fav-amzn.png
+Saved to /home/ubuntu/workspace/src/fav-amzn.png
+Get favicon from link: http://amzn.to/2lQ8AD3
+Filename: fav-amzn.png
+Saved to /home/ubuntu/workspace/src/fav-amzn.png
+Get favicon from link: http://thenextweb.com/hardfork/2018/02/02/a-brief-history-of-bitcoin-mining-hardware/
+Filename: fav-thenextweb.png
+Saved to /home/ubuntu/workspace/src/fav-thenextweb.png
+Get favicon from link: http://edgesecure.co/
+Filename: fav-edgesecure.png
+Saved to /home/ubuntu/workspace/src/fav-edgesecure.png
+Get favicon from link: http://techcrunch.com/tag/mining/
+Filename: fav-techcrunch.png
+Saved to /home/ubuntu/workspace/src/fav-techcrunch.png
+Get favicon from link: http://news.bitcoin.com/tag/mining/
+Filename: fav-news.png
+Saved to /home/ubuntu/workspace/src/fav-news.png
+Get favicon from link: http://cointelegraph.com/tags/bitcoin-mining
+Filename: fav-cointelegraph.png
+Saved to /home/ubuntu/workspace/src/fav-cointelegraph.png
+Get favicon from link: http://coindesk.com/tag/mining-2/
+
+
+##############################################
+ ERROR: No favicon for http://coindesk.com/tag/mining-2/
+##############################################
+
+Filename: fav-coindesk.png
+Saved to /home/ubuntu/workspace/src/fav-coindesk.png
+Get favicon from link: http://ccn.com/bitcoin-mining/
+Filename: fav-ccn.png
+Saved to /home/ubuntu/workspace/src/fav-ccn.png
+Get favicon from link: http://newsbtc.com
+Filename: fav-newsbtc.png
+Saved to /home/ubuntu/workspace/src/fav-newsbtc.png
+Get favicon from link: http://investopedia.com/terms/b/bitcoin-mining.asp
+Filename: fav-investopedia.png
+Saved to /home/ubuntu/workspace/src/fav-investopedia.png
+Get favicon from link: http://bitcoinwisdom.com/bitcoin/difficulty
+Filename: fav-bitcoinwisdom.png
+Saved to /home/ubuntu/workspace/src/fav-bitcoinwisdom.png
+Get favicon from link: http://economist.com/the-economist-explains/2015/01/20/how-bitcoin-mining-works
+Filename: fav-economist.png
+Saved to /home/ubuntu/workspace/src/fav-economist.png
+Get favicon from link: http://bloomberg.com/graphics/2014-interactive-bitcoin-miner/
+
+
+##############################################
+ ERROR: No favicon for http://bloomberg.com/graphics/2014-interactive-bitcoin-miner/
+##############################################
+
+Filename: fav-bloomberg.png
+Saved to /home/ubuntu/workspace/src/fav-bloomberg.png
+Get favicon from link: http://wsj.com/articles/the-rise-of-bitcoin-factories-mining-for-the-masses-1519209000
+Filename: fav-wsj.png
+Saved to /home/ubuntu/workspace/src/fav-wsj.png
+Get favicon from link: http://coindation.com
+Filename: fav-coindation.png
+Saved to /home/ubuntu/workspace/src/fav-coindation.png
+Get favicon from link: http://telegram.me/icocountdown
+Filename: fav-telegram.png
+Saved to /home/ubuntu/workspace/src/fav-telegram.png
+Get favicon from link: http://t.me/BitcoinCore
+Filename: fav-t.png
+Saved to /home/ubuntu/workspace/src/fav-t.png
+Get favicon from link: http://t.me/Crypto
+Filename: fav-t.png
+Saved to /home/ubuntu/workspace/src/fav-t.png
+Get favicon from link: http://t.me/thecoinfarm
+Filename: fav-t.png
+Saved to /home/ubuntu/workspace/src/fav-t.png
+Get favicon from link: http://whalehackers.network/
+Filename: fav-whalehackers.png
+Saved to /home/ubuntu/workspace/src/fav-whalehackers.png
+Get favicon from link: http://hashtaginvesting.com/
+Filename: fav-hashtaginvesting.png
+Saved to /home/ubuntu/workspace/src/fav-hashtaginvesting.png
+Get favicon from link: http://t.me/whalepoolbt
+Filename: fav-t.png
+Saved to /home/ubuntu/workspace/src/fav-t.png
+Get favicon from link: http://telegram.me/joinchat/BpTIDjwx_ayUl5zN84uQBw
+Filename: fav-telegram.png
+Saved to /home/ubuntu/workspace/src/fav-telegram.png
+Get favicon from link: http://t.me/EthTrader
+Filename: fav-t.png
+Saved to /home/ubuntu/workspace/src/fav-t.png
+Get favicon from link: http://tunein.com/podcasts/Technology-Podcasts/Decrypted-p1103639/
+Filename: fav-tunein.png
+Saved to /home/ubuntu/workspace/src/fav-tunein.png
+Get favicon from link: http://youtube.com/channel/UCCatR7nWbYrkVXdxXb4cGXw
+Filename: fav-youtube.png
+Saved to /home/ubuntu/workspace/src/fav-youtube.png
+Get favicon from link: http://youtube.com/channel/UC67AEEecqFEc92nVvcqKdhA
+Filename: fav-youtube.png
+Saved to /home/ubuntu/workspace/src/fav-youtube.png
+Get favicon from link: http://youtube.com/channel/UCBaU9NXRPjkLGgJy-M7RPCw
+Filename: fav-youtube.png
+Saved to /home/ubuntu/workspace/src/fav-youtube.png
+Get favicon from link: http://youtube.com/channel/UCAEktd4wejD_N4aPyDPD3zw
+Filename: fav-youtube.png
+Saved to /home/ubuntu/workspace/src/fav-youtube.png
+Get favicon from link: http://youtube.com/channel/UCGyqEtcGQQtXyUwvcy7Gmyg
+Filename: fav-youtube.png
+Saved to /home/ubuntu/workspace/src/fav-youtube.png
+Get favicon from link: http://youtube.com/channel/UCxODjeUwZHk3p-7TU-IsDOA
+Filename: fav-youtube.png
+Saved to /home/ubuntu/workspace/src/fav-youtube.png
+Get favicon from link: http://youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw
+Filename: fav-youtube.png
+Saved to /home/ubuntu/workspace/src/fav-youtube.png
+Get favicon from link: http://youtube.com/channel/UC4nXWTjZqK4bv7feoRntSog
+Filename: fav-youtube.png
+Saved to /home/ubuntu/workspace/src/fav-youtube.png
+Get favicon from link: http://youtube.com/user/obham001
+Filename: fav-youtube.png
+Saved to /home/ubuntu/workspace/src/fav-youtube.png
+Get favicon from link: http://youtube.com/channel/UCzq3tpwoKica7nf7cXYz0FA
+Filename: fav-youtube.png
+Saved to /home/ubuntu/workspace/src/fav-youtube.png
+Get favicon from link: http://youtube.com/channel/UCt_oM56Ui0BCCgi0Yc-Wh3Q
+Filename: fav-youtube.png
+Saved to /home/ubuntu/workspace/src/fav-youtube.png
+Get favicon from link: http://btccpool.info/
+Filename: fav-btccpool.png
+Saved to /home/ubuntu/workspace/src/fav-btccpool.png
+Get favicon from link: http://bitclub.network/
+Filename: fav-bitclub.png
+Saved to /home/ubuntu/workspace/src/fav-bitclub.png
+Get favicon from link: http://slushpool.com/home/
+Filename: fav-slushpool.png
+Saved to /home/ubuntu/workspace/src/fav-slushpool.png
+Get favicon from link: http://f2pool.com/
+Filename: fav-f2pool.png
+Saved to /home/ubuntu/workspace/src/fav-f2pool.png
+Get favicon from link: http://btc.top
+
+
+##############################################
+ ERROR: No favicon for http://btc.top
+##############################################
+
+Filename: fav-btc.png
+Saved to /home/ubuntu/workspace/src/fav-btc.png
+Get favicon from link: http://viabtc.com/
+Filename: fav-viabtc.png
+Saved to /home/ubuntu/workspace/src/fav-viabtc.png
+Get favicon from link: http://antpool.com/
+Filename: fav-antpool.png
+Saved to /home/ubuntu/workspace/src/fav-antpool.png
+Get favicon from link: http://bw.com
+
+
+##############################################
+ ERROR: No favicon for http://bw.com
+##############################################
+
+Filename: fav-bw.png
+Saved to /home/ubuntu/workspace/src/fav-bw.png
+Get favicon from link: http://bitfury.com/
+Filename: fav-bitfury.png
+Saved to /home/ubuntu/workspace/src/fav-bitfury.png
+Get favicon from link: http://pool.btc.com
+Filename: fav-pool.png
+Saved to /home/ubuntu/workspace/src/fav-pool.png
+Get favicon from link: http://WAYI.CN
+
+
+##############################################
+ ERROR: No favicon for http://WAYI.CN
+##############################################
+
+Filename: fav-WAYI.png
+Saved to /home/ubuntu/workspace/src/fav-WAYI.png
+Get favicon from link: http://reddit.com/r/gpumining/
+Filename: fav-reddit.png
+Saved to /home/ubuntu/workspace/src/fav-reddit.png
+Get favicon from link: http://reddit.com/r/BitcoinMining/
+Filename: fav-reddit.png
+Saved to /home/ubuntu/workspace/src/fav-reddit.png
+Get favicon from link: http://reddit.com/r/EtherMining/
+Filename: fav-reddit.png
+Saved to /home/ubuntu/workspace/src/fav-reddit.png
+Get favicon from link: http://reddit.com/r/cryptomining/
+Filename: fav-reddit.png
+Saved to /home/ubuntu/workspace/src/fav-reddit.png
+Get favicon from link: http://reddit.com/r/MiningPoolHub/
+Filename: fav-reddit.png
+Saved to /home/ubuntu/workspace/src/fav-reddit.png
+Get favicon from link: http://reddit.com/r/altcoinmining/
+Filename: fav-reddit.png
+Saved to /home/ubuntu/workspace/src/fav-reddit.png
+Get favicon from link: http://reddit.com/r/mining/
+Filename: fav-reddit.png
+Saved to /home/ubuntu/workspace/src/fav-reddit.png
+Get favicon from link: http://reddit.com/r/MoneroMining/
+Filename: fav-reddit.png
+Saved to /home/ubuntu/workspace/src/fav-reddit.png
+Get favicon from link: http://reddit.com/r/burstcoinmining/
+Filename: fav-reddit.png
+Saved to /home/ubuntu/workspace/src/fav-reddit.png
+Get favicon from link: http://reddit.com/r/ETNmining/
+Filename: fav-reddit.png
+Saved to /home/ubuntu/workspace/src/fav-reddit.png
+Get favicon from link: http://reddit.com/r/GenesisMining/
+Filename: fav-reddit.png
+Saved to /home/ubuntu/workspace/src/fav-reddit.png
+Get favicon from link: http://reddit.com/r/BitcoinMarkets/
+Filename: fav-reddit.png
+Saved to /home/ubuntu/workspace/src/fav-reddit.png
+Get favicon from link: http://gitorious.org/bitcoin/eloipool
+Filename: fav-gitorious.png
+Saved to /home/ubuntu/workspace/src/fav-gitorious.png
+Get favicon from link: http://en.bitcoin.it/wiki/Mining
+Filename: fav-en.png
+Saved to /home/ubuntu/workspace/src/fav-en.png
+Get favicon from link: http://reddit.com/r/Tokenmining/
+Filename: fav-reddit.png
+Saved to /home/ubuntu/workspace/src/fav-reddit.png
+Get favicon from link: http://ledgerstatus.com/welcome-ledger-cast-new-podcast-cryptocurrency-traders-enthusiasts/
+Filename: fav-ledgerstatus.png
+Saved to /home/ubuntu/workspace/src/fav-ledgerstatus.png
+Get favicon from link: http://itunes.apple.com/us/podcast/unchained-big-ideas-from-worlds-blockchain-cryptocurrency/id1123922160?mt=2
+Filename: fav-itunes.png
+Saved to /home/ubuntu/workspace/src/fav-itunes.png
+Get favicon from link: http://thebitcoinpodcast.com/
+Filename: fav-thebitcoinpodcast.png
+Saved to /home/ubuntu/workspace/src/fav-thebitcoinpodcast.png
+Get favicon from link: http://itunes.apple.com/us/podcast/the-third-web/id899090462?mt=2
+Filename: fav-itunes.png
+Saved to /home/ubuntu/workspace/src/fav-itunes.png
+Get favicon from link: http://itunes.apple.com/us/podcast/epicenter-podcast-on-blockchain-ethereum-bitcoin-distributed/id792338939?mt=2
+Filename: fav-itunes.png
+Saved to /home/ubuntu/workspace/src/fav-itunes.png
+Get favicon from link: http://itunes.apple.com/us/podcast/the-crypto-street-podcast/id1313742831?mt=2
+Filename: fav-itunes.png
+Saved to /home/ubuntu/workspace/src/fav-itunes.png
+Get favicon from link: http://cryptocompare.com/forum/
+Filename: fav-cryptocompare.png
+Saved to /home/ubuntu/workspace/src/fav-cryptocompare.png
+Get favicon from link: http://itunes.apple.com/us/podcast/bitcoin-uncensored/id1046414365?mt=2
+Filename: fav-itunes.png
+Saved to /home/ubuntu/workspace/src/fav-itunes.png
+Get favicon from link: http://allcryptotalk.com/
+Filename: fav-allcryptotalk.png
+Saved to /home/ubuntu/workspace/src/fav-allcryptotalk.png
+Get favicon from link: http://forum.bitcoin.com/
+
+
+##############################################
+ ERROR: No favicon for http://forum.bitcoin.com/
+##############################################
+
+Filename: fav-forum.png
+Saved to /home/ubuntu/workspace/src/fav-forum.png
+Get favicon from link: http://blockzero.show/
+
+
+##############################################
+ ERROR: No favicon for http://blockzero.show/
+##############################################
+
+Filename: fav-blockzero.png
+Saved to /home/ubuntu/workspace/src/fav-blockzero.png
+Get favicon from link: http://a16z.com/2017/12/08/summit-crypto-alex-rampell/
+Filename: fav-a16z.png
+Saved to /home/ubuntu/workspace/src/fav-a16z.png
+Get favicon from link: http://exodus.io/
+Filename: fav-exodus.png
+Saved to /home/ubuntu/workspace/src/fav-exodus.png
+Get favicon from link: http://ciphrex.com/products/
+Filename: fav-ciphrex.png
+Saved to /home/ubuntu/workspace/src/fav-ciphrex.png
+Get favicon from link: http://copay.io/
+Filename: fav-copay.png
+Saved to /home/ubuntu/workspace/src/fav-copay.png
+Get favicon from link: http://bitcoinarmory.com/
+Filename: fav-bitcoinarmory.png
+Saved to /home/ubuntu/workspace/src/fav-bitcoinarmory.png
+Get favicon from link: http://bitcoin.org/en/download
+Filename: fav-bitcoin.png
+Saved to /home/ubuntu/workspace/src/fav-bitcoin.png
+Get favicon from link: http://greenaddress.it/en/
+Filename: fav-greenaddress.png
+Saved to /home/ubuntu/workspace/src/fav-greenaddress.png
+Get favicon from link: http://electrum.org/#home
+Filename: fav-electrum.png
+Saved to /home/ubuntu/workspace/src/fav-electrum.png
+Get favicon from link: http://etherwall.com/downloads/
+Filename: fav-etherwall.png
+Saved to /home/ubuntu/workspace/src/fav-etherwall.png
+Get favicon from link: http://brd.com/
+Filename: fav-brd.png
+Saved to /home/ubuntu/workspace/src/fav-brd.png
+Get favicon from link: http://coinbase.com/
+Filename: fav-coinbase.png
+Saved to /home/ubuntu/workspace/src/fav-coinbase.png
+Get favicon from link: http://blockchain.com/wallet
+Filename: fav-blockchain.png
+Saved to /home/ubuntu/workspace/src/fav-blockchain.png
+Get favicon from link: http://airbitz.co/bitcoin-wallet/
+
+
+##############################################
+ ERROR: No favicon for http://airbitz.co/bitcoin-wallet/
+##############################################
+
+Filename: fav-airbitz.png
+Saved to /home/ubuntu/workspace/src/fav-airbitz.png
+Get favicon from link: http://wallet.mycelium.com/
+Filename: fav-wallet.png
+Saved to /home/ubuntu/workspace/src/fav-wallet.png
+Get favicon from link: http://jaxx.io/
+Filename: fav-jaxx.png
+Saved to /home/ubuntu/workspace/src/fav-jaxx.png
+Get favicon from link: http://twitter.com/VitalikButerin
+Filename: fav-twitter.png
+Saved to /home/ubuntu/workspace/src/fav-twitter.png
+Get favicon from link: http://twitter.com/gavinandresen
+Filename: fav-twitter.png
+Saved to /home/ubuntu/workspace/src/fav-twitter.png
+Get favicon from link: http://twitter.com/SatoshiLite
+Filename: fav-twitter.png
+Saved to /home/ubuntu/workspace/src/fav-twitter.png
+Get favicon from link: http://twitter.com/ethereumJoseph
+Filename: fav-twitter.png
+Saved to /home/ubuntu/workspace/src/fav-twitter.png
+Get favicon from link: http://twitter.com/brian_armstrong
+Filename: fav-twitter.png
+Saved to /home/ubuntu/workspace/src/fav-twitter.png
+Get favicon from link: http://twitter.com/officialmcafee
+Filename: fav-twitter.png
+Saved to /home/ubuntu/workspace/src/fav-twitter.png
+Get favicon from link: http://twitter.com/TimDraper
+Filename: fav-twitter.png
+Saved to /home/ubuntu/workspace/src/fav-twitter.png
+Get favicon from link: http://twitter.com/cryptomanran
+Filename: fav-twitter.png
+Saved to /home/ubuntu/workspace/src/fav-twitter.png
+Get favicon from link: http://twitter.com/aantonop
+Filename: fav-twitter.png
+Saved to /home/ubuntu/workspace/src/fav-twitter.png
+Get favicon from link: http://twitter.com/rogerkver
+Filename: fav-twitter.png
+Saved to /home/ubuntu/workspace/src/fav-twitter.png
+Get favicon from link: http://twitter.com/dinisguarda
+Filename: fav-twitter.png
+Saved to /home/ubuntu/workspace/src/fav-twitter.png
+Get favicon from link: http://twitter.com/dtapscott
+Filename: fav-twitter.png
+Saved to /home/ubuntu/workspace/src/fav-twitter.png
+Get favicon from link: http://twitter.com/NickSzabo4
+Filename: fav-twitter.png
+Saved to /home/ubuntu/workspace/src/fav-twitter.png
+Get favicon from link: http://twitter.com/neha
+Filename: fav-twitter.png
+Saved to /home/ubuntu/workspace/src/fav-twitter.png
+Get favicon from link: http://twitter.com/barrysilbert
+Filename: fav-twitter.png
+Saved to /home/ubuntu/workspace/src/fav-twitter.png
+Get favicon from link: http://twitter.com/mclynd
+Filename: fav-twitter.png
+Saved to /home/ubuntu/workspace/src/fav-twitter.png
+Get favicon from link: http://twitter.com/VanRijmenam
+Filename: fav-twitter.png
+Saved to /home/ubuntu/workspace/src/fav-twitter.png
+Get favicon from link: http://twitter.com/obussmann
+Filename: fav-twitter.png
+Saved to /home/ubuntu/workspace/src/fav-twitter.png
+Get favicon from link: http://amzn.to/2MBtpx6
+Filename: fav-amzn.png
+Saved to /home/ubuntu/workspace/src/fav-amzn.png
+Get favicon from link: http://amzn.to/2yV9t6E
+Filename: fav-amzn.png
+Saved to /home/ubuntu/workspace/src/fav-amzn.png
+Get favicon from link: http://amzn.to/2tJzqAN
+Filename: fav-amzn.png
+Saved to /home/ubuntu/workspace/src/fav-amzn.png
+Get favicon from link: http://amzn.to/2lJDv3z
+Filename: fav-amzn.png
+Saved to /home/ubuntu/workspace/src/fav-amzn.png
+Get favicon from link: http://amzn.to/2z14ZeK
+Filename: fav-amzn.png
+Saved to /home/ubuntu/workspace/src/fav-amzn.png
+Get favicon from link: http://amzn.to/2tPxaZ9
+Filename: fav-amzn.png
+Saved to /home/ubuntu/workspace/src/fav-amzn.png
